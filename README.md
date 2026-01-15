@@ -4,7 +4,9 @@ Rock-paper-scissor-C
 ## Project members
 1. Name: Afia Jahin Puspo(41240202270)
 2. Name: Sharmin Sultana Samia(41240202269)
-   Description:
+
+
+   ## Description:
 This is a console-based Rock Paper Scissors game developed using C. It features two exciting modes:
  **3-Player Mode:** Play with two of your friends locally.
  **Human vs Computer Mode:** Test your luck against the computer with an automated scoring system.
