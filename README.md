@@ -14,7 +14,7 @@ This is a console-based Rock Paper Scissors game developed using C. It features 
 The game includes colorful text outputs and sound effects (Beep sounds) to enhance the user experience.
 
 ## How to run the project:
-1. Ensure you have a C compiler installed on your computer (e.g., CodeBlocks, Dev-C++, or GCC).
+1. Ensure you have a C compiler installed on your computer.
 2. Download the `main.c` file from this repository.
 3. Open the file in your compiler/IDE.
 4. Build and Run the project.
